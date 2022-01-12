@@ -1,0 +1,60 @@
+.btn-hapus{
+    color: #dc3546;
+    background-color: #dc354646;
+}
+
+.btn-hapus:hover{
+    color: #dc3546;
+    background-color: #ff33478c;
+}
+
+.btn-edit{
+    color: #198754;
+    background-color: #19875646;
+}
+
+.btn-edit:hover{
+    color: #198754;
+    background-color: #1dbf76bf;
+}
+
+.btn-detail{
+    color: #191d87;
+    background-color: #191d8746;
+}
+
+.btn-detail:hover{
+    color: #191d87;
+    background-color: #191d87bf;
+}
+
+.cancel-upload{
+    font-size: 26px; 
+}
+
+.foto-berita{
+    width: 120px;
+    height: 120px;
+
+    overflow: hidden;
+}
+
+
+.inner-foto-berita:hover{
+    -webkit-transform: scale(1.10);
+    transform: scale(1.10);
+
+    background-size: cover;
+    background-position: center;
+
+    transition: 300ms ease;
+}
+
+    /* .cancel-upload a{
+        opacity: 0.6;
+    }
+
+    .cancel-upload a:hover{
+        transition: ease 0.5s;
+        opacity: 1;
+    } */
